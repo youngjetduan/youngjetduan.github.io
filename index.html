@@ -24,46 +24,220 @@
   <!-- icon -->
   <link rel="shortcut icon" href="images/avatar_tiny.png" type="image/x-icon">
 
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
 </head>
 
 <body>
-  <div style="text-align: center;margin-top: 100px;">
-    <span class="image avatar"><img src="images/avatar.png" alt="Avatar" style="width: 200px;"></img></span>
-    <h1><b>Yongjie Duan</b></h1>
-  </div>
-  <br>
-  <div style="text-align: center;">
-    <a href="https://github.com/keyunj" style="text-decoration: none;">
-      <img src="images/github.svg" alt="Github" width="24px" style="position: relative; top: -6px; left:2px">
-    </a> &nbsp
-    <a href="https://scholar.google.com/citations?user=PqMp30oAAAAJ" style="text-decoration: none;">
-      <img src="images/gs.svg" alt="Google Scholars" width="24px" style="position: relative; top: -6px; left:2px">
-    </a>
-    <br>
-    <div style="text-align: center;">
-      <!-- <p><b>Contact me</b></p> -->
-      <p>Room 624, Main Building, THU</p>
-      <p>Beijing 100084, China</p>
-      <p>dyj17@mails.tsinghua.edu.cn</p>
-    </div>
-  </div>
+  <div class="wrapper">
+    <header>
+      <br>
+      <div style="text-align: center;">
+        <span class="image avatar"><img src="images/avatar.png" alt="Avatar"></img></span>
+        <h1><b>Yongjie Duan</b></h1>
+      </div>
+      <br>
+      <div style="text-align: center;">
+        <a href="https://github.com/duanyj95" style="text-decoration: none;">
+          <img src="images/github.svg" alt="Github" width="24px" style="position: relative; top: -6px; left:2px">
+        </a> &nbsp
+        <a href="https://scholar.google.com/citations?user=PqMp30oAAAAJ" style="text-decoration: none;">
+          <img src="images/gs.svg" alt="Google Scholars" width="24px" style="position: relative; top: -6px; left:2px">
+        </a> &nbsp
+      </div>
+      <br>
+      <div style="text-align: center;">
+        <!-- <p><b>Contact me</b></p> -->
+        <p>Room 624, Main Building, THU</p>
+        <p>Beijing 100084, China</p>
+        <p>dyj17@mails.tsinghua.edu.cn</p>
+      </div>
+
+    </header>
 
 
-  <!-- About Me -->
-  <section id="about">
-    <h2>About Me</h2>
-    <p>
-      I am currently a third-year Ph.D. student in the Department of Automation,
-      <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, advised by Prof. Jie Zhou and
-      Prof. <a href="http://ivg.au.tsinghua.edu.cn/~jfeng/">Jiangjian Feng</a>.<a href="cv.html"
-        style="font-size: 1px;color: white;">Details</a>
-      <br>
-      My Bachelor's degree is received from the Department of Automation at Tsinghua University.
-      <br>
-      My research interests lie in computer vision and machine learning, particularly medical image analysis and
-      fingerprint recognition.
-    </p>
-  </section>
+    <section class="outer">
+
+      <!-- About Me -->
+      <section id="about">
+        <h2>About Me</h2>
+        <p>
+          I am currently a third-year Ph.D. student in the Department of Automation,
+          <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, advised by Prof. Jie Zhou and
+          Prof. <a href="http://ivg.au.tsinghua.edu.cn/~jfeng/">Jiangjian Feng</a>.
+          <br>
+          My Bachelor's degree is received from the Department of Automation at Tsinghua University.
+          <br>
+          My research interests lie in computer vision and machine learning, particularly medical image analysis and
+          fingerprint recognition.
+        </p>
+      </section>
+
+      <!-- Education -->
+      <section id="education">
+        <h2>Education</h2>
+        <div class="media">
+          <table width="100%" align="center" border="0">
+            <span class="pull-left"><img src="images/tsinghua.png" alt="" width="50px"></span>
+            <div class="media-body">
+              <div><span style="font-weight: bold">Tsinghua University </span>, China </div>
+              <div>Ph.D. candidate in Department of Automation &bull; 2017 - Now </div>
+              <div>Advisor: Jie Zhou</div>
+            </div>
+          </table>
+          <br>
+          <table width="100%" align="center" border="0">
+            <span class="pull-left"><img src="images/tsinghua.png" alt="" width="50px"></span>
+            <div class="media-body">
+              <div><span style="font-weight: bold">Tsinghua University </span>, China </div>
+              <div>B.Eng. in Department of Automation &bull; 2013 - 2017 </div>
+              <div>Advisor: <a href="http://ivg.au.tsinghua.edu.cn/~jfeng/">Jiangjian Feng</a></div>
+          </table>
+        </div>
+      </section>
+
+      <section id="news">
+        <h2>News</h2>
+        <ul>
+          <li><b>Jun.2021</b> One paper accepted to IJCB 2021!</li>
+          <li><b>Jun.2019</b> One paper accepted to STACOM 2019 as Poster!</li>
+          <li><b>Jun.2018</b> One paper accepted to STACOM 2018 as Poster!</li>
+          <li><b>Oct.2016</b> Joined Prof. Jianjiang Feng's group and become a member of the <a
+              href="http://ivg.au.tsinghua.edu.cn/">Intelligent Vision Group</a>.</li>
+        </ul>
+      </section>
+
+      <!-- Research -->
+      <section id="research">
+        <section id="publication">
+          <h2>Publications<span style="float:right;">
+              <a href="https://scholar.google.com/citations?user=PqMp30oAAAAJ">[Full List]</a>
+            </span>
+          </h2>
+
+          <!-- RefNet -->
+          <section class="pub">
+            <table width="100%" align="center" border="0">
+              <tr>
+                <td width="30%">
+                  <a href="papers/RefNet/RefNet.png"><img src="papers/RefNet/RefNet.png" alt="" width="90%"></a>
+                </td>
+                <td width="70%">
+                  <div class="title">
+                    Orientation Field Estimation for Latent Fingerprints with Prior Knowledge of Fingerprint Pattern
+                  </div>
+                  <div class="authors">
+                    <span class="me">Yongjie Duan</span>,
+                    <span class="author">Jianjiang Feng</span>,
+                    <span class="author">Jiwen Lu</span>,
+                    <span class="author">Jie Zhou</span>
+                  </div>
+                  <span class="tag"><a href="">
+                      <b>IJCB 2021</b>
+                    </a></span>
+                </td>
+              </tr>
+            </table>
+          </section>
+
+          <!-- CRM -->
+          <section class="pub">
+            <table width="100%" align="center" border="0">
+              <tr>
+                <td width="30%">
+                  <a href="papers/CRM/CRM.png"><img src="papers/CRM/CRM.png" alt="" width="90%"></a>
+                </td>
+                <td width='70%' align="center">
+                  <div class="title">
+                    A Cascade Regression Model for Anatomical Landmark Detection
+                  </div>
+                  <div class="authors">
+                    <span class="author">Zimeng Tan</span>,
+                    <span class="me">Yongjie Duan</span>,
+                    <span class="author">Ziyi Wu</span>,
+                    <span class="author">Jianjiang Feng</span>,
+                    <span class="author">Jie Zhou</span>
+                  </div>
+                  <span class="tag"><a href="https://link.springer.com/chapter/10.1007/978-3-030-39074-7_5">
+                      <b>STACOM 2019</b></a>
+                  </span>
+                </td>
+              </tr>
+            </table>
+          </section>
+
+          <!-- CAFCN -->
+          <section class="pub">
+            <table width="100%" align="center" border="0">
+              <tr>
+                <td width="30%">
+                  <a href="papers/CAFCN/CAFCN.png"><img src="papers/CAFCN/CAFCN.png" alt="" width="90%"></a>
+                </td>
+                <td width="70%" align="center">
+                  <div class="title">
+                    Context Aware 3D Fully Convolutional Networks for Coronary Artery Segmentation
+                  </div>
+                  <div class="authors">
+                    <span class="me">Yongjie Duan</span>,
+                    <span class="author">Jiwen Lu</span>,
+                    <span class="author">Jianjiang Feng</span>,
+                    <span class="author">Jie Zhou</span>
+                  </div>
+                  <span class="tag"><a href="https://link.springer.com/chapter/10.1007/978-3-030-12029-0_10">
+                      <b>STACOM 2018</b></a>
+                  </span>
+                </td>
+              </tr>
+            </table>
+          </section>
+        </section>
+
+
+        <!-- Teaching -->
+        <section id="teaching">
+          <h2>Teaching</h2>
+          <ul>
+            <li>
+              <b>Infomation Theory</b>
+              <div>Teaching Assistent (TA) with Jianjiang Feng, THU &bull; 2019</div>
+            </li>
+            <li>
+              <b>Digital Image Processing</b>
+              <div>Teaching Assistent (TA) with Jianjiang Feng, THU &bull; 2018</div>
+            </li>
+          </ul>
+        </section>
+
+        <!-- Academic Service -->
+        <section id="work">
+          <h2>Professional Service</h2>
+          <ul>
+            <li>Reviewer: <b>CVPR2020, JCCT2019</b></li>
+          </ul>
+        </section>
+
+
+        <!-- Honors -->
+        <section id="Honors">
+          <h2>Awards and Honors</h2>
+          <ul>
+            <li>Outstanding Graduate, Tsinghua University &bull; 2017</li>
+            <li>Academic Excellence Award, Tsinghua University &bull; 2016</li>
+            <li>Honorable Mention, Mathematical Contest in Modeling &bull; 2016</li>
+          </ul>
+        </section>
+
+
+      </section>
+  </div>
+
+  <!-- who searched me
+	<div id="clustrmaps-widget">
+		<script type="text/javascript" id="clustrmaps"
+			src="//cdn.clustrmaps.com/map_v2.js?d=wSrqOw-qNIMpRO9gAvu-PJWXiem4t4LummLzvXL2uuU&cl=ffffff&w=a"></script>
+	</div> -->
 
   <!-- Footer -->
   <section id="footer">
