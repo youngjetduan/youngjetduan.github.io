@@ -1,7 +1,7 @@
 main:
 
   - title: Latent Fingerprint Matching via Dense Minutia Descriptor
-    authors: Zhiyu Pan, <strong>Yongjie Duan</strong>, Xiongjun Guan, Jianjiang Feng, Jie Zhou
+    authors: Zhiyu Pan, <b>Yongjie Duan</b>, Xiongjun Guan, Jianjiang Feng, Jie Zhou
     conference_short: IJCB
     conference: IEEE International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2024
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Pan_IJCB24_DenseMinuDescriptor.pdf
@@ -10,7 +10,7 @@ main:
 
 
   - title: 'TrackPose: Towards Stable and User Adaptive Finger Pose Estimation on Capacitive Touchscreens'
-    authors: Ke He, Chentao Li, Yongjie Duan, Jianjiang Feng, Jie Zhou
+    authors: Ke He, Chentao Li, <b>Yongjie Duan</b>, Jianjiang Feng, Jie Zhou
     conference_short: IMWUT
     conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT)</strong>, 2024
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/He_IMWUT23_TrackPose.pdf
@@ -19,7 +19,7 @@ main:
     image: ./assets/img/imwut2024_he.png
 
   - title: Fingerprint matching with localized deep representation
-    authors: <strong>Yongjie Duan</strong>, Zhiyu Pan, Jianjiang Feng, Jie Zhou
+    authors: <b>Yongjie Duan</b>, Zhiyu Pan, Jianjiang Feng, Jie Zhou
     conference_short: arXiv
     conference: arXiv preprint <strong>(arXiv)</strong>, 2024
     pdf: https://arxiv.org/pdf/2311.18576v2
@@ -27,7 +27,7 @@ main:
     image: ./assets/img/arxiv2023_duan.png
 
   - title: 3D Finger Rotation Estimation from Fingerprint Images
-    authors: <strong>Yongjie Duan</strong>, Jinyang Yu, Jianjiang Feng, Ke He, Jiwen Lu, Jie Zhou
+    authors: <b>Yongjie Duan</b>, Jinyang Yu, Jianjiang Feng, Ke He, Jiwen Lu, Jie Zhou
     conference_short: PACMHCI
     conference: Proceedings of the ACM on Human-Computer Interaction <strong>(PACMHCI)</strong>, 2023.
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Duan_ISS23_FingerRotation.pdf
@@ -36,7 +36,7 @@ main:
     image: ./assets/img/iss2023_duan.png
 
   - title: Regression of dense distortion field from a single fingerprint image
-    authors: Xiongjun Guan, <strong>Yongjie Duan</strong>, Jianjiang Feng, Jie Zhou
+    authors: Xiongjun Guan, <b>Yongjie Duan</b>, Jianjiang Feng, Jie Zhou
     conference_short: T-IFS
     conference: Transactions on Information Forensics & Security <strong>(T-IFS)</strong>, 2023.
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Guan_TIFS23_Regression.pdf
@@ -45,7 +45,7 @@ main:
     image: ./assets/img/tifs2023_guan.png
 
   - title: Estimating Fingerprint Pose via Dense Voting
-    authors: <strong>Yongjie Duan</strong>, Jianjiang Feng, Jiwen Lu, Jie Zhou
+    authors: <b>Yongjie Duan</b>, Jianjiang Feng, Jiwen Lu, Jie Zhou
     conference_short: T-IFS
     conference: Transactions on Information Forensics & Security <strong>(T-IFS)</strong>, 2023.
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Duan_TIFS23_EstimatingFingerprint.pdf
@@ -54,7 +54,7 @@ main:
     image: ./assets/img/tifs2023_duan.png
 
   - title: Direct Regression of Distortion Field from a Single Fingerprint Image
-    authors: Xiongjun Guan, <strong>Yongjie Duan</strong>, Jianjiang Feng, Jie Zhou
+    authors: Xiongjun Guan, <b>Yongjie Duan</b>, Jianjiang Feng, Jie Zhou
     conference_short: IJCB
     conference: IEEE International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2022
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Guan_IJCB22_Direct.pdf
@@ -64,7 +64,7 @@ main:
     notes: Oral Presentation
 
   - title: Estimating 3D Finger Angle via Fingerprint Image
-    authors: Ke He, <strong>Yongjie Duan</strong>, Jianjiang Feng, Jie Zhou
+    authors: Ke He, <b>Yongjie Duan</b>, Jianjiang Feng, Jie Zhou
     conference_short: IMWUT
     conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT)</strong>, 2022
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/He_IMWUT22_FingerPose.pdf
@@ -74,7 +74,7 @@ main:
     image: ./assets/img/imwut2022_he.png
 
   - title: Estimating 3D Finger Pose via 2D-3D Fingerprint Matching
-    authors: <strong>Yongjie Duan</strong>, Ke He, Jianjiang Feng, Jiwen Lu, Jie Zhou
+    authors: <b>Yongjie Duan</b>, Ke He, Jianjiang Feng, Jiwen Lu, Jie Zhou
     conference_short: IUI
     conference: International Conference on Intelligent User Interfaces <strong>(IUI)</strong>, 2022
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Duan_IUI22_3Dpose.pdf
@@ -83,7 +83,7 @@ main:
     notes: Best Paper Award Honorable Mention
 
   - title: Orientation Field Estimation for Latent Fingerprints with Prior Knowledge of Fingerprint Pattern
-    authors: <strong>Yongjie Duan</strong>, Jianjiang Feng, Jiwen Lu, Jie Zhou
+    authors: <b>Yongjie Duan</b>, Jianjiang Feng, Jiwen Lu, Jie Zhou
     conference_short: IJCB
     conference: IEEE International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2021
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Duan_IJCB21_LatentOF.pdf
@@ -93,7 +93,7 @@ main:
     notes: Oral Presentation
 
   - title: A Cascade Regression Model for Anatomical Landmark Detection
-    authors: Zimeng Tan, <strong>Yongjie Duan</strong>, Ziyi Wu, Jianjiang Feng, Jie Zhou
+    authors: Zimeng Tan, <b>Yongjie Duan</b>, Ziyi Wu, Jianjiang Feng, Jie Zhou
     conference_short: STACOM
     conference: Statistical Atlases and Computational Models of the Heart 2019 workshop of MICCAI <strong>(STACOM@MICCAI)</strong>, 2019
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Tan_STACOM19_CoronaryLandmark.pdf
@@ -101,7 +101,7 @@ main:
     image: ./assets/img/stacom2019_tan.png
 
   - title: Context Aware 3D Fully Convolutional Networks for Coronary Artery Segmentation
-    authors: <strong>Yongjie Duan</strong>, Jianjiang Feng, Jiwen Lu, Jie Zhou
+    authors: <b>Yongjie Duan</b>, Jianjiang Feng, Jiwen Lu, Jie Zhou
     conference_short: STACOM
     conference: Statistical Atlases and Computational Models of the Heart 2018 workshop of MICCAI <strong>(STACOM@MICCAI)</strong>, 2018
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Duan_STACOM18_Coronary.pdf

@@ -8,7 +8,7 @@ From 2023 to now, I acted as a researcher of AI infra in Huawei to develop heter
 framework.  
 I obtained my Ph.D. from 2017 to 2023 at [Tsinghua University (THU)](https://www.tsinghua.edu.cn), supervised by Prof.
 Jie Zhou and Asst. Prof. [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng) since 2017. I received B.Eng in the
-Department of Automation at Tsinghua University from 2013 to 2017.
+Department of Automation at THU from 2013 to 2017.
 
 ## News
 
