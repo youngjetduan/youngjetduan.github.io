@@ -3,6 +3,6 @@
 
 .educations ol.afflication { list-style: none; padding: 0; margin-top: 0; padding-bottom: 0px; margin-bottom: 0px; }
 
-.educations ol.afflication li { min-height: 50px; margin-bottom: 0rem; }
+.educations ol.afflication li { min-height: 10px; margin-bottom: 0rem; }
 
 .educations ol.afflication li .teaser { height: 4rem; width: 4.5rem; margin-top: 5px; object-fit: cover; }

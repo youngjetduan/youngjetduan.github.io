@@ -2,17 +2,17 @@
 layout: homepage
 ---
 
-<h2 style="margin: -5px 0px 5px;">About Me</h2>
+<h2 style="margin: 0px 0px 5px;">About Me</h2>
 
-From 2023 to now, I acted as a researcher of AI infra in Huawei to develop heterogeneours traing and inference
-framework.  
+From 2023 to now, I acted as a researcher of AI infra in Huawei to develop heterogeneours traing and inference framework
+for accelerating.  
 I obtained my Ph.D. from 2017 to 2023 at [Tsinghua University (THU)](https://www.tsinghua.edu.cn), supervised by Prof.
-Jie Zhou and Asst. Prof. [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng) since 2017. I received B.Eng in the
-Department of Automation at THU from 2013 to 2017.
+Jie Zhou and Asst. Prof. [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng). I received B.Eng in the Department of
+Automation at THU from 2013 to 2017.
 
 {% include_relative _includes/educations.md %}
 
-<h2 style="margin: -5px 0px 5px;">News</h2>
+<h2 style="margin: -10px 0px 5px;">News</h2>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
