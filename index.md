@@ -10,6 +10,8 @@ I obtained my Ph.D. from 2017 to 2023 at [Tsinghua University (THU)](https://www
 Jie Zhou and Asst. Prof. [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng) since 2017. I received B.Eng in the
 Department of Automation at THU from 2013 to 2017.
 
+{% include_relative _includes/educations.md %}
+
 ## News
 
 <div style="height: 200px; overflow: auto;">
@@ -28,8 +30,6 @@ Department of Automation at THU from 2013 to 2017.
 <li> [10/2016] Joined Asst. Prof. Jianjiang Feng's group and become a member of the Intelligent Vision Group. </li>
 </ul>
 </div>
-
-{% include_relative _includes/educations.md %}
 
 {% include_relative _includes/publications.md %}
 
