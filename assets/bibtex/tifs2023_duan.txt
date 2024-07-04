@@ -1,0 +1,9 @@
+@article{duan2023estimating,
+  author    = {Duan, Yongjie and Feng, Jianjiang and Lu, Jiwen and Zhou, Jie},
+  journal   = {IEEE Transactions on Information Forensics and Security},
+  pages     = {2493--2507},
+  publisher = {IEEE},
+  title     = {Estimating Fingerprint Pose via Dense Voting},
+  volume    = {18},
+  year      = {2023}
+}

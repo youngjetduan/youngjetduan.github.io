@@ -1,0 +1,7 @@
+@inproceedings{duan2022estimating,
+  author    = {Duan, Yongjie and He, Ke and Feng, Jianjiang and Lu, Jiwen and Zhou, Jie},
+  booktitle = {27th International Conference on Intelligent User Interfaces},
+  pages     = {459--469},
+  title     = {Estimating 3D finger pose via 2D-3D fingerprint matching},
+  year      = {2022}
+}

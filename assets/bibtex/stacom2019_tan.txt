@@ -1,0 +1,8 @@
+@inproceedings{tan2020cascade,
+  title={A cascade regression model for anatomical landmark detection},
+  author={Tan, Zimeng and Duan, Yongjie and Wu, Ziyi and Feng, Jianjiang and Zhou, Jie},
+  booktitle={Statistical Atlases and Computational Models of the Heart. Multi-Sequence CMR Segmentation, CRT-EPiggy and LV Full Quantification Challenges: 10th International Workshop, STACOM 2019, Held in Conjunction with MICCAI 2019, Shenzhen, China, October 13, 2019, Revised Selected Papers 10},
+  pages={43--51},
+  year={2020},
+  organization={Springer}
+}

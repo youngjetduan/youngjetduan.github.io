@@ -1,0 +1,8 @@
+@inproceedings{duan2019context,
+  title={Context aware 3D fully convolutional networks for coronary artery segmentation},
+  author={Duan, Yongjie and Feng, Jianjiang and Lu, Jiwen and Zhou, Jie},
+  booktitle={Statistical Atlases and Computational Models of the Heart. Atrial Segmentation and LV Quantification Challenges: 9th International Workshop, STACOM 2018, Held in Conjunction with MICCAI 2018, Granada, Spain, September 16, 2018, Revised Selected Papers 9},
+  pages={85--93},
+  year={2019},
+  organization={Springer}
+}

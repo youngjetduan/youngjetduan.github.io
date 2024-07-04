@@ -1,0 +1,10 @@
+@article{duan20233d,
+  title={3D Finger Rotation Estimation from Fingerprint Images},
+  author={Duan, Yongjie and Yu, Jinyang and Feng, Jianjiang and He, Ke and Lu, Jiwen and Zhou, Jie},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={7},
+  number={ISS},
+  pages={114--134},
+  year={2023},
+  publisher={ACM New York, NY, USA}
+}

@@ -1,0 +1,8 @@
+@inproceedings{pan2024latent,
+  title={Latent fingerprint matching via dense minutia descriptor},
+  author={Pan, Zhiyu and Duan, Yongjie and Guan, Xiongjun and Feng, Jianjiang and Zhou, Jie},
+  booktitle={2024 IEEE International Joint Conference on Biometrics (IJCB)},
+  pages={1--8},
+  year={2024},
+  organization={IEEE}
+}

@@ -1,0 +1,7 @@
+@article{guan2023regression,
+  title={Regression of dense distortion field from a single fingerprint image},
+  author={Guan, Xiongjun and Duan, Yongjie and Feng, Jianjiang and Zhou, Jie},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  publisher={IEEE}
+}

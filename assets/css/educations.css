@@ -1,0 +1,8 @@
+
+@media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
+
+.educations ol.afflication { list-style: none; padding: 0; margin-top: 0; }
+
+.educations ol.afflication li { min-height: 50px; margin-bottom: 0rem; }
+
+.educations ol.afflication li .teaser { height: 4rem; width: 4.5rem; margin-top: 5px; object-fit: cover; }

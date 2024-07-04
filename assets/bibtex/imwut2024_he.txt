@@ -1,0 +1,10 @@
+@article{he2024trackpose,
+  title={TrackPose: Towards Stable and User Adaptive Finger Pose Estimation on Capacitive Touchscreens},
+  author={He, Ke and Li, Chentao and Duan, Yongjie and Feng, Jianjiang and Zhou, Jie},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={7},
+  number={4},
+  pages={1--22},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}

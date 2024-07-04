@@ -1,0 +1,18 @@
+main:
+
+  - title: Department of Automation, Tsinghua University, China
+    position: Ph.D.
+    field: Control Science and Engineering
+    start: 2017
+    end: 2023
+    advisor: Prof. Jie Zhou
+    image: ./assets/img/tsinghua.png
+
+  - title: Department of Automation, Tsinghua University, China
+    position: B.Eng.
+    field: Automation
+    start: 2013
+    end: 2017
+    advisor: Asst. Prof. Jianjiang Feng
+    advisor_url: http://ivg.au.tsinghua.edu.cn/~jfeng/
+    image: ./assets/img/tsinghua.png

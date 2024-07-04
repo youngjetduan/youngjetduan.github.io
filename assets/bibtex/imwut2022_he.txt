@@ -1,0 +1,10 @@
+@article{he2022estimating,
+  author    = {He, Ke and Duan, Yongjie and Feng, Jianjiang and Zhou, Jie},
+  journal   = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  number    = {1},
+  pages     = {1--22},
+  publisher = {ACM New York, NY, USA},
+  title     = {Estimating 3D finger angle via fingerprint image},
+  volume    = {6},
+  year      = {2022}
+}
