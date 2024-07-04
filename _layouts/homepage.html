@@ -54,7 +54,7 @@
         <h1></b>{{ site.title }}</b></h1>
 
         {% if site.position %}
-        <position>{{ site.position }}</position>
+        <t>{{ site.position }}</t>
         <br>
         {% endif %}
         {% if site.affiliation %}
@@ -98,6 +98,14 @@
         {% endif %}
         </div>
         <br>
+
+        {% if site.feed1 %}
+        <b> Step Forward </b>
+        <br>
+        <a style="margin: 0 0 0 0" href="{{ site.feed1_url }}">
+          {{ site.feed1 }}
+        </a>
+        {% endif %}
 
       </header>
 
