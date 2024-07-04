@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+<h2 style="margin: -5px 0px 5px;">About Me</h2>
 
 From 2023 to now, I acted as a researcher of AI infra in Huawei to develop heterogeneours traing and inference
 framework.  
@@ -12,7 +12,7 @@ Department of Automation at THU from 2013 to 2017.
 
 {% include_relative _includes/educations.md %}
 
-## News
+<h2 style="margin: -5px 0px 5px;">News</h2>
 
 <div style="height: 200px; overflow: auto;">
 <ul>
@@ -33,7 +33,7 @@ Department of Automation at THU from 2013 to 2017.
 
 {% include_relative _includes/publications.md %}
 
-## Services
+<h2 style="margin: -30px 0px 5px;">Services</h2>
 
 <h4 style="margin:0 10px 0;">Teaching</h4>
 
@@ -51,7 +51,7 @@ Department of Automation at THU from 2013 to 2017.
 - <a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a>
 - <a href="https://www.journalofcardiovascularct.com/"><autocolor>Journal of Cardiovascular Computed Tomography (JCCT)</autocolor></a>
 
-## Awards and Honors
+<h2 style="margin: 0px 0px 5px;">Awards and Honors</h2>
 - 2018 IHI Scholarship, Tsinghua University
 - 2017 Outstanding Graduate, Tsinghua University
 - 2016 Academic Excellence Award, Tsinghua University

@@ -1,7 +1,7 @@
 
 @media print, screen and (min-width: 480px) {.col-sm-9 {width: 100%;}}
 
-.educations ol.afflication { list-style: none; padding: 0; margin-top: 0; }
+.educations ol.afflication { list-style: none; padding: 0; margin-top: 0; padding-bottom: 0px; margin-bottom: 0px; }
 
 .educations ol.afflication li { min-height: 50px; margin-bottom: 0rem; }
 

@@ -1,4 +1,4 @@
-<h2>Education</h2>
+<h2 id="educations" style="margin: -5px 0px 5px;">Education</h2>
 
 <div class="educations">
 <ol class="afflication">
