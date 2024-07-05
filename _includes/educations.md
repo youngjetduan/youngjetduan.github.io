@@ -16,7 +16,6 @@
       <div class="title">{{ link.title }}</div>
       <div class="details">{{ link.position }} in {{ link.field }} <t style="float:right">{{link.start}} - {{ link.end }}</t></div>
       <div class="advisor">Advisor: {{ link.advisor }}</div>
-      {% endif %}
   </div>
 
 </div>
