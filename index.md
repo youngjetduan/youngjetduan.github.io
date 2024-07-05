@@ -42,14 +42,14 @@ Automation at THU from 2013 to 2017.
 
 <h4 style="margin:-10px 10px 0;">Conference Reviewers</h4>
 
-- <a href="http://cvpr2022.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020-2022</autocolor></a>
-- <a href="https://ccbr99.cn/2021/"><autocolor>Chinese Conference on Biometric Recognition (CCBR) 2021</autocolor></a>
-- <a href="https://brain.korea.ac.kr/acpr/"><autocolor>Asian Conference on Pattern Recognition (ACPR) 2021</autocolor></a>
+- <a href="http://cvpr2022.thecvf.com/" target="_blank"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020-2022</autocolor></a>
+- <a href="https://ccbr99.cn/2021/" target="_blank"><autocolor>Chinese Conference on Biometric Recognition (CCBR) 2021</autocolor></a>
+- <a href="https://brain.korea.ac.kr/acpr/" target="_blank"><autocolor>Asian Conference on Pattern Recognition (ACPR) 2021</autocolor></a>
 
 <h4 style="margin:-10px 10px 0;">Journal Reviewers</h4>
 
-- <a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a>
-- <a href="https://www.journalofcardiovascularct.com/"><autocolor>Journal of Cardiovascular Computed Tomography (JCCT)</autocolor></a>
+- <a href="https://www.computer.org/csdl/journal/tp" target="_blank"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a>
+- <a href="https://www.journalofcardiovascularct.com/" target="_blank"><autocolor>Journal of Cardiovascular Computed Tomography (JCCT)</autocolor></a>
 
 <h2 style="margin: 0px 0px 5px;">Awards and Honors</h2>
 - 2018 IHI Scholarship, Tsinghua University

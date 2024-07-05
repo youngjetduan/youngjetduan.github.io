@@ -58,7 +58,7 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <a href="{{ site.affiliation_link }}" target="_blank" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
@@ -68,31 +68,31 @@
 
         <div class="social-icons">
         {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}" target="_blank">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
         </a>  
         {% endif %}
 
         {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" target="_blank">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
 
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}" target="_blank">
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
 
         {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" target="_blank">
           <i class="fab fa-linkedin"></i>
         </a>
         {% endif %}
 
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
+        <a style="margin: 0 0 0 0" href="{{ site.twitter }}" target="_blank">
           <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
@@ -103,7 +103,7 @@
         <b> Step Forward </b>
         <br>
         {% for line in site.feed %}
-        <a style="margin: 0 0 0 0" href="{{ line.url }}">
+        <a style="margin: 0 0 0 0" href="{{ line.url }}" target="_blank">
           {{ line.title }}
         </a>
         <br>

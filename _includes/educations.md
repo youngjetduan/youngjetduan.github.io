@@ -15,10 +15,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">{{ link.title }}</div>
       <div class="details">{{ link.position }} in {{ link.field }} <t style="float:right">{{link.start}} - {{ link.end }}</t></div>
-      {% if link.advisor_url %}
-        <div class="advisor">Advisor: <a href="{{ link.advisor_url }}">{{ link.advisor }}</a></div>
-      {% else %}
-        <div class="advisor">Advisor: {{ link.advisor }}</div>
+      <div class="advisor">Advisor: {{ link.advisor }}</div>
       {% endif %}
   </div>
 
