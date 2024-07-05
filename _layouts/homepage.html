@@ -99,12 +99,14 @@
         </div>
         <br>
 
-        {% if site.feed1 %}
+        {% if site.feed %}
         <b> Step Forward </b>
         <br>
-        <a style="margin: 0 0 0 0" href="{{ site.feed1_url }}">
-          {{ site.feed1 }}
+        {% for line in site.feed %}
+        <a style="margin: 0 0 0 0" href="{{ line.url }}">
+          {{ line.title }}
         </a>
+        {% endfor %}
         {% endif %}
 
       </header>
