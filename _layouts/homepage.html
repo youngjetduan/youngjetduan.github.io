@@ -24,11 +24,7 @@
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
 
-    {% if site.font == "Sans Serif" %}
-    <link rel="stylesheet" href="./assets/css/font_sans_serif.css">
-    {% else %}
     <link rel="stylesheet" href="./assets/css/font.css">
-    {% endif %}
     {% if site.auto_dark_mode %}
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
@@ -38,7 +34,7 @@
     {% endif %}
     
     <link rel="stylesheet" href="./assets/css/educations.css">
-    <link rel="stylesheet" type="text/css" href="./assets/css/mystyle.css">
+    <link rel="stylesheet" href="./assets/css/mystyle.css">
 
     <!-- icon -->
     <link rel="shortcut icon" href="./assets/img/avatar_tiny.png" type="image/x-icon">
@@ -62,7 +58,7 @@
         <br>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <email><a href="mailto:{{ site.email | replace: "(at)", "@" }}">{{ site.email }}</a></email>
         <br>
         {% endif %}
 
@@ -119,7 +115,7 @@
         <br>
 
         {% if site.enable_footnote %}
-        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+        <p><small>Last updated: {{ site.time | date: "%b %d, %Y" }}. Powered by Jekyll and <a href="{{ site.remote_theme_url }}" target="_blank" rel="noopener">{{ site.remote_theme_title }}</a> theme.</small></p>
         {% endif %}
 
       </section>
@@ -128,7 +124,7 @@
         <div style="font: 14px/1.2 Crimson Pro, serif;color: #c0c0c0;">
         <p>
         <!-- <small> -->
-        &copy; Yongjie Duan <script>document.write(new Date().getFullYear())</script>
+        &copy; {{ site.title }} <script>document.write(new Date().getFullYear())</script>
         <!-- </small> -->
         </p>
         </div>

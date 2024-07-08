@@ -9,9 +9,9 @@ main:
     image: ./assets/img/tsinghua.png
 
   - title: Department of Automation, Tsinghua University, China
-    position: B.Eng.
+    position: B.S.
     field: Automation
     start: 2013
     end: 2017
-    advisor: Asst. Prof. Jianjiang Feng
+    advisor: Prof. Jianjiang Feng
     image: ./assets/img/tsinghua.png

@@ -1,0 +1,18 @@
+main:
+
+  - title: Dynamic Early Exit in Reasoning Models
+    authors: Chenxu Yang*, Qingyi Si*, <b>Yongjie Duan</b>, Zheliang Zhu, Chenyu Zhu, Zheng Lin, Li Cao, Weiping Wang
+    conference_short: arXiv
+    conference: arXiv preprint <strong>(arXiv)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2504.15895
+    code: https://github.com/iie-ycx/DEER
+    bibtex: ./assets/bibtex/arxiv2025_yang.txt
+    image: ./assets/img/arxiv2025_yang.png
+
+  - title: Fingerprint matching with localized deep representation
+    authors: <b>Yongjie Duan</b>, Zhiyu Pan, Jianjiang Feng, Jie Zhou
+    conference_short: arXiv
+    conference: arXiv preprint <strong>(arXiv)</strong>, 2024
+    pdf: https://arxiv.org/pdf/2311.18576v2
+    bibtex: ./assets/bibtex/arxiv2023_duan.txt
+    image: ./assets/img/arxiv2023_duan.png

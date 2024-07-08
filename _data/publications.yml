@@ -1,13 +1,22 @@
 main:
 
+  - title: Fixed-length dense descriptor for efficient fingerprint matching
+    authors: Zhiyu Pan, <b>Yongjie Duan</b>, Jianjiang Feng, Jie Zhou
+    conference_short: WIFS
+    conference: IEEE International Workshop on Information Forensics and Security <strong>(WIFS)</strong>, 2024
+    pdf: https://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Pan_WIFS24_FDD.pdf
+    bibtex: ./assets/bibtex/wifs2024_pan.txt
+    image: ./assets/img/wifs2024_pan.png
+    notes: Best Student Paper Award
+
   - title: Latent Fingerprint Matching via Dense Minutia Descriptor
     authors: Zhiyu Pan, <b>Yongjie Duan</b>, Xiongjun Guan, Jianjiang Feng, Jie Zhou
     conference_short: IJCB
     conference: IEEE International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2024
     pdf: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Pan_IJCB24_DenseMinuDescriptor.pdf
+    code: https://github.com/Yu-Yy/DMD
     bibtex: ./assets/bibtex/ijcb2024_pan.txt
     image: ./assets/img/ijcb2024_pan.png
-
 
   - title: 'TrackPose: Towards Stable and User Adaptive Finger Pose Estimation on Capacitive Touchscreens'
     authors: Ke He, Chentao Li, <b>Yongjie Duan</b>, Jianjiang Feng, Jie Zhou
@@ -17,14 +26,6 @@ main:
     video: http://ivg.au.tsinghua.edu.cn/~jfeng/pubs/He_IMWUT23_TrackPose.mp4
     bibtex: ./assets/bibtex/imwut2024_he.txt
     image: ./assets/img/imwut2024_he.png
-
-  - title: Fingerprint matching with localized deep representation
-    authors: <b>Yongjie Duan</b>, Zhiyu Pan, Jianjiang Feng, Jie Zhou
-    conference_short: arXiv
-    conference: arXiv preprint <strong>(arXiv)</strong>, 2024
-    pdf: https://arxiv.org/pdf/2311.18576v2
-    bibtex: ./assets/bibtex/arxiv2023_duan.txt
-    image: ./assets/img/arxiv2023_duan.png
 
   - title: 3D Finger Rotation Estimation from Fingerprint Images
     authors: <b>Yongjie Duan</b>, Jinyang Yu, Jianjiang Feng, Ke He, Jiwen Lu, Jie Zhou
@@ -61,8 +62,7 @@ main:
     code: https://github.com/XiongjunGuan/DDRNet
     bibtex: ./assets/bibtex/ijcb2022_guan.txt
     image: ./assets/img/ijcb2022_guan.png
-    notes: Oral Presentation
-
+    
   - title: Estimating 3D Finger Angle via Fingerprint Image
     authors: Ke He, <b>Yongjie Duan</b>, Jianjiang Feng, Jie Zhou
     conference_short: IMWUT
@@ -90,7 +90,6 @@ main:
     code: https://github.com/keyunj/RefNet_IJCB2021
     bibtex: ./assets/bibtex/ijcb2021_duan.txt
     image: ./assets/img/ijcb2021_duan.png
-    notes: Oral Presentation
 
   - title: A Cascade Regression Model for Anatomical Landmark Detection
     authors: Zimeng Tan, <b>Yongjie Duan</b>, Ziyi Wu, Jianjiang Feng, Jie Zhou

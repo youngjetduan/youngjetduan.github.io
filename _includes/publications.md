@@ -1,9 +1,9 @@
-<h2 id="publications" style="margin: 15px 0px -15px;">Publications</h2>
+<p style="margin: 5px 0px -15px;"> * indicates equal contribution </p>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in include.dataset %}
 
 <li>
 <div class="pub-row">
@@ -16,8 +16,21 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+      <div class="title">{{ link.title }}</div>
+      <div class="author">
+        {% assign authors = link.authors | split: ", " %}
+        {% for author in authors %}
+          {% assign plain_name = author | replace: "*", "" | replace: "<b>", "" | replace: "</b>", "" | strip %}
+          
+          {% if site.data.authors[plain_name] %}
+            <a href="{{ site.data.authors[plain_name] }}" target="_blank">{{ author }}</a>
+          {% else %}
+            {{ author }}
+          {% endif %}
+
+          {% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">

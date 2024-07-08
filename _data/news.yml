@@ -1,0 +1,125 @@
+main:
+
+  - type: paper
+    date: 2025-05
+    status: submitted
+    title: fixed-length fingerprint descriptor
+    venue: T-IFS 2025
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206
+
+  - type: paper
+    date: 2025-04
+    status: submitted
+    title: dynamic CoT early exit
+    venue: arXiv
+    url: https://arxiv.org/abs/2504.15895
+    
+  - type: paper
+    date: 2024-12
+    status: accepted
+    title: fixed-length dense descriptor
+    venue: WIFS 2024
+    url: https://wifs2024.uniroma3.it
+    award: Best Student Paper Award  # 留空表示无奖项
+  
+  - type: paper
+    date: 2024-06
+    status: accepted
+    title: dense minutia descriptor
+    venue: IJCB 2024
+    url: https://ijcb2024.ieee-biometrics.org
+    role: Oral
+
+  - type: paper
+    date: 2024-01
+    status: accepted
+    title: 3D finger pose estimation
+    venue: IMWUT 2024
+    url: https://dl.acm.org/journal/imwut
+  
+  - type: paper
+    date: 2023-11
+    status: submitted
+    title: fixed-length dense descriptor
+    venue: arXiv
+    url: https://arxiv.org/abs/2311.18576v1
+
+  - type: paper
+    date: 2023-09
+    status: accepted
+    title: distortion field regression
+    venue: T-IFS 2023
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206
+
+  - type: joined
+    date: 2023-07
+    org: Huawei Technology Ltd.
+    url: https://e.huawei.com/cn
+    role: an AI researcher
+
+  - type: paper
+    date: 2023-05
+    status: accepted
+    title: 3D finger relative rotation estimation
+    venue: PACMHCI(ISS) 2023
+    url: https://dl.acm.org/journal/pacmhci
+
+  - type: paper
+    date: 2023-04
+    status: accepted
+    title: 2D fingerprint pose estimation
+    venue: T-IFS 2023
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206
+  
+  - type: paper
+    date: 2022-10
+    status: accepted
+    title: distortion field regression accepted
+    venue: IJCB 2022
+    url: https://ieee-biometrics.org/ijcb2022
+    role: Oral
+
+  - type: paper
+    date: 2022-02
+    status: accepted
+    title: 3D finger pose estimation
+    venue: IMWUT 2022
+    url: https://dl.acm.org/journal/imwut
+
+  - type: paper
+    date: 2022-02
+    status: accepted
+    title: 3D finger pose estimation
+    venue: IUI 2022
+    url: https://iui.acm.org/2022
+    award: Best Paper Awards Honorable Mention
+    
+  - type: paper
+    date: 2021-06
+    status: accepted
+    title: orientation field estimation
+    venue: IJCB 2021
+    url: https://ijcb2021.iapr-tc4.org
+    role: Oral
+    
+  - type: paper
+    date: 2019-06
+    status: accepted
+    title: anatomical landmark detection
+    venue: STACOM 2019
+    url: https://stacom.github.io/stacom2019
+    role: Poster
+    
+  - type: paper
+    date: 2018-06
+    status: accepted
+    title: coronary segmentation
+    venue: STACOM 2018
+    url: https://stacom.github.io/stacom2018
+    role: Poster
+
+  - type: joined
+    date: 2016-10
+    org: Intelligent Vision Group (i-VisionGroup)
+    url: https://ivg.au.tsinghua.edu.cn
+    role: a Ph.D. candidate supervised by Prof. Jianjiang Feng & Prof. Jie Zhou

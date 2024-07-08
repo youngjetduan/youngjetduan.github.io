@@ -1,25 +1,22 @@
 # Basic Information 
 title: Yongjie Duan
-position: Ph.D. @ THU
-affiliation: Huawei Corporation
+position: Reasercher
+affiliation: Huawei Technology Ltd.
 email: duanyj13(at)tsinghua.org.cn
 
 feed:
-  - title: My-arXiv-daily
+  - title: ArXiv Daily
     url: https://youngjetduan.github.io/cv-arxiv-daily/
-  
-  - title: Papers.cool
-    url: https://papers.cool/
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Yongjie Duan, THU
-description: Personal website for Yongjie Duan, a Ph.D. candidate in Department of Automation, Tsinghua University.
+keywords: Yongjie Duan, Huawei, THU
+description: Personal website of Yongjie Duan, a LLM researcher in Huawei Technology Ltd., and received Ph.D. in Control Science and Engineering from Tsinghua University.
 canonical: https://youngjetduan.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=PqMp30oAAAAJ&hl=zh-CN&oi=ao
+google_scholar: https://scholar.google.com/citations?user=De1i7DsAAAAJ
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/youngjetduan
 # linkedin: https://www.linkedin.com/
@@ -39,17 +36,15 @@ enable_footnote: true
 # You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# remote_theme: yaoyao-liu/minimal-light
+remote_theme_title: Minimal Light
+remote_theme_url: https://github.com/yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
@@ -58,4 +53,3 @@ exclude:
   - README.md
   - LICENSE
   - minimal-light.gemspec
-  - html_source_file/
