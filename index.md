@@ -37,7 +37,7 @@ Automation at THU from 2013 to 2017.
 
 <h4 style="margin:0 10px 0;">Teaching</h4>
 
-- <autocolor>Teaching Assistent (TA) of Basic of Infomation Theory, THU, 2019 SPring Semester</autocolor>
+- <autocolor>Teaching Assistent (TA) of Basic of Infomation Theory, THU, 2019 Spring Semester</autocolor>
 - <autocolor>Teaching Assistent (TA) of Digital Image Processing, THU, 2018 Fall Semester</autocolor>
 
 <h4 style="margin:-10px 10px 0;">Conference Reviewers</h4>
@@ -48,7 +48,6 @@ Automation at THU from 2013 to 2017.
 
 <h4 style="margin:-10px 10px 0;">Journal Reviewers</h4>
 
-- <a href="https://www.computer.org/csdl/journal/tp" target="_blank"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a>
 - <a href="https://www.journalofcardiovascularct.com/" target="_blank"><autocolor>Journal of Cardiovascular Computed Tomography (JCCT)</autocolor></a>
 
 <h2 style="margin: 0px 0px 5px;">Awards and Honors</h2>
