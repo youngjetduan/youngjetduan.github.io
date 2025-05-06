@@ -1,10 +1,10 @@
-<h2 id="publications" style="margin: 15px 0px -15px;">Publications</h2>
+<h2 id="preprints" style="margin: 15px 0px -15px;">Preprints</h2>
 <p style="margin: 15px 0px -15px;"> * indicates equal contribution </p>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.preprints.main %}
 
 <li>
 <div class="pub-row">
