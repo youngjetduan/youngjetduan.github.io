@@ -1,5 +1,13 @@
 main:
 
+  - title: Fixed-length dense descriptor for efficient fingerprint matching
+    authors: Zhiyu Pan, Yongjie Duan, Jianjiang Feng, Jie Zhou
+    conference_short: WIFS
+    conference: IEEE International Workshop on Information Forensics and Security <strong>WIFS</strong>, 2024
+    pdf: https://ivg.au.tsinghua.edu.cn/~jfeng/pubs/Pan_WIFS24_FDD.pdf
+    bibtex: ./assets/bibtex/wifs2024_pan.txt
+    image: ./assets/img/wifs2024_pan.png
+
   - title: Latent Fingerprint Matching via Dense Minutia Descriptor
     authors: Zhiyu Pan, <b>Yongjie Duan</b>, Xiongjun Guan, Jianjiang Feng, Jie Zhou
     conference_short: IJCB

@@ -4,11 +4,11 @@ layout: homepage
 
 <h2 style="margin: 0px 0px 5px;">About Me</h2>
 
-From 2023 to now, I acted as a researcher of AI infra in Huawei to develop heterogeneours traing and inference framework
-for accelerating.  
-I obtained my Ph.D. from 2017 to 2023 at [Tsinghua University (THU)](https://www.tsinghua.edu.cn), supervised by Prof.
-Jie Zhou and Asst. Prof. [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng). I received B.Eng in the Department of
-Automation at THU from 2013 to 2017.
+From 2023 to present, I have served as a Researcher in LLM Inference at Huawei Technologies Ltd. 
+I earned my Ph.D. (2017–2023) from [Tsinghua University (THU)](https://www.tsinghua.edu.cn) as a member of [i-VisionGroup](https://ivg.au.tsinghua.edu.cn/), under the supervision of Professor [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng) and Professor Jie Zhou.
+
+I obtained my Ph.D. from 2017 to 2023 in [i-VisionGroup](https://ivg.au.tsinghua.edu.cn/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn), supervised by Asst. Prof. [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng) and Prof. Jie Zhou. 
+In 2017, I received B.S. degree in the Department of Automation at THU.
 
 {% include_relative _includes/educations.md %}
 
@@ -16,7 +16,8 @@ Automation at THU from 2013 to 2017.
 
 <div style="height: 200px; overflow: auto;">
 <ul>
-<li> [06/2024] 1 paper on dense minutia descriptro accepted by IJCB 2024 as Oral! </li>
+<li> [06/2024] 1 paper on fixed-length dense descriptor accepted by WIFS 2024! <b>Best Student Paper Award</b> </li>
+<li> [06/2024] 1 paper on dense minutia descriptor accepted by IJCB 2024 as Oral! </li>
 <li> [01/2024] 1 paper on 3D finger pose estimation accepted by IMWUT 2024! </li>
 <li> [05/2023] 1 paper on 3D finger relative rotation estimation accepted by PACMHCI(ISS) 2023! </li>
 <li> [09/2023] 1 paper on distortion field regression accepted by TIFS 2023! </li>

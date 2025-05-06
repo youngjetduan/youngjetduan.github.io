@@ -1,0 +1,8 @@
+@inproceedings{pan2024fixed,
+  title={Fixed-length dense descriptor for efficient fingerprint matching},
+  author={Pan, Zhiyu and Duan, Yongjie and Feng, Jianjiang and Zhou, Jie},
+  booktitle={2024 IEEE International Workshop on Information Forensics and Security (WIFS)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
+}
