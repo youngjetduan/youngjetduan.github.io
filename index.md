@@ -6,8 +6,6 @@ layout: homepage
 
 From 2023 to present, I have served as a Researcher in LLM Inference at Huawei Technologies Ltd. 
 I earned my Ph.D. (2017–2023) from [Tsinghua University (THU)](https://www.tsinghua.edu.cn) as a member of [i-VisionGroup](https://ivg.au.tsinghua.edu.cn/), under the supervision of Professor [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng) and Professor Jie Zhou.
-
-I obtained my Ph.D. from 2017 to 2023 in [i-VisionGroup](https://ivg.au.tsinghua.edu.cn/) at [Tsinghua University (THU)](https://www.tsinghua.edu.cn), supervised by Asst. Prof. [Jianjiang Feng](http://ivg.au.tsinghua.edu.cn/~jfeng) and Prof. Jie Zhou. 
 In 2017, I received B.S. degree in the Department of Automation at THU.
 
 {% include_relative _includes/educations.md %}
