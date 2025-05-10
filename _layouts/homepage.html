@@ -119,7 +119,7 @@
         <br>
 
         {% if site.enable_footnote %}
-        <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+        <p><small>Last updated: {{ site.time | date: "%b %d, %Y" }}. Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
         {% endif %}
 
       </section>
@@ -129,7 +129,6 @@
         <p>
         <!-- <small> -->
         &copy; Yongjie Duan <script>document.write(new Date().getFullYear())</script>
-        <p>Last updated: {{ page.last_modified_at | date: "%Y-%m-%d" }}</p>
         <!-- </small> -->
         </p>
         </div>
