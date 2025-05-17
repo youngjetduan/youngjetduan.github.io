@@ -10,7 +10,7 @@ main:
     image: ./assets/img/arxiv2025_yang.png
 
   - title: Fingerprint matching with localized deep representation
-    authors: <b>Yongjie Duan</b>, Zhiyu Pan, Jianjiang Feng, Jie Zhou
+    authors: <b>Yongjie Duan</b>*, Zhiyu Pan*, Jianjiang Feng, Jie Zhou
     conference_short: arXiv
     conference: arXiv preprint <strong>(arXiv)</strong>, 2024
     pdf: https://arxiv.org/pdf/2311.18576v2
