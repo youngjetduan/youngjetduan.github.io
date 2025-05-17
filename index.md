@@ -15,13 +15,23 @@ layout: homepage
 </ul>
 </div>
 
-<h2 style="margin: -10px 0px 5px;">Preprints</h2>
+<details>
+<summary style="cursor: pointer; display: flex; align-items: center; list-style: none;">
+<h2 style="margin: -10px 0px 5px; flex-grow: 1;">Preprints</h2>
+<span class="toggle-icon"></span>
+</summary>
 {% include_relative _includes/publications.md dataset=site.data.preprints.main %}
+</details>
 
-<h2 style="margin: -10px 0px 5px;">Publications</h2>
+<details>
+<summary style="cursor: pointer; display: flex; align-items: center; list-style: none;">
+<h2 style="margin: 0px 0px 5px; flex-grow: 1;">Publications</h2>
+<span class="toggle-icon"></span>
+</summary>
 {% include_relative _includes/publications.md dataset=site.data.publications.main %}
+</details>
 
-<h2 style="margin: -10px 0px 5px;">Services</h2>
+<h2 style="margin: 0px 0px 5px;">Services</h2>
 {% include_relative _includes/services.md %}
 
 <h2 style="margin: -10px 0px 5px;">Awards and Honors</h2>

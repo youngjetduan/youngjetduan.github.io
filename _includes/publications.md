@@ -1,4 +1,4 @@
-<p style="margin: 5px 0px -15px;"> * indicates equal contribution </p>
+<p style="margin: 5px 0px 5px;"> * indicates equal contribution </p>
 
 <div class="publications">
 <ol class="bibliography">

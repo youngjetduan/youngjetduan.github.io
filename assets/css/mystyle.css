@@ -105,3 +105,12 @@ h2, h3 {
       display: block; 
       align-items: center;}
   }
+
+.toggle-icon::after {
+    content: "+"; /* 收起状态显示减号 */
+    margin-left: 8px;
+    font-size: 1.2em;
+}
+details[open] .toggle-icon::after {
+    content: "-"; /* 展开状态显示加号 */
+}
