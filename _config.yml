@@ -1,17 +1,17 @@
 # Basic Information 
 title: Yongjie Duan
 position: Reasercher
-affiliation: Huawei Technology Ltd.
+affiliation: Tencent Technology Ltd.
 email: duanyj13(at)tsinghua.org.cn
 
 feed:
-  - title: ArXiv Daily
-    url: https://youngjetduan.github.io/cv-arxiv-daily/
+  - title: AI ArXiv Daily
+    url: https://youngjetduan.github.io/daily-arXiv-ai-enhanced/
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Yongjie Duan, Huawei, THU
-description: Personal website of Yongjie Duan, a LLM researcher in Huawei Technology Ltd., and received Ph.D. in Control Science and Engineering from Tsinghua University.
+keywords: Yongjie Duan, Tencent, THU
+description: Personal website of Yongjie Duan, a LLM researcher in Tencent Technology Ltd., and received Ph.D. in Control Science and Engineering from Tsinghua University.
 canonical: https://youngjetduan.github.io/
 
 # Links 

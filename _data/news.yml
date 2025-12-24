@@ -1,5 +1,11 @@
 main:
 
+  - type: joined
+    date: 2025-08
+    org: Tencent Technology Ltd.
+    url: https://www.tencent.com/zh-cn/
+    role: an AI researcher
+
   - type: paper
     date: 2025-05
     status: submitted
