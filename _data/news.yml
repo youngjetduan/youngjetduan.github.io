@@ -1,5 +1,19 @@
 main:
 
+  - type: paper
+    date: 2026-01
+    status: accepted
+    title: fixed-length fingerprint descriptor
+    venue: T-IFS 2026
+    url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206
+
+  - type: paper
+    date: 2026-01
+    status: accepted
+    title: dynamic CoT early exit
+    venue: ICLR 2026
+    url: https://iclr.cc/Conferences/2026
+
   - type: joined
     date: 2025-08
     org: Tencent Technology Ltd.
